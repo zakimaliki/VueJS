@@ -17,27 +17,27 @@
 
 #### Direct  
   -[Untuk versi pengembangan](https://vuejs.org/js/vue.js).  
-  -[Untuk versi produksi](https://vuejs.org/js/vue.min.js)
-*catatan: sebaiknya untuk gunahkan produksi karena lebih setabil*
+  -[Untuk versi produksi](https://vuejs.org/js/vue.min.js).
+     *catatan: sebaiknya untuk gunahkan produksi karena lebih setabil*
 
 #### CDN
--Versi pengembangan
+-Versi pengembangan.
 
 <script src="https://cdn.jsdelivr.net/npm/vue"></script>
 
--Versi produksi
+-Versi produksi.
 
 
 <script src="https://cdn.jsdelivr.net/npm/vue@2.6.10/dist/vue.js"></script>
 
 
--ES Modules
+-ES Modules.
 
   <script type="module">   
 
-    import Vue from 'https://cdn.jsdelivr.net/npm/vue@2.6.10/dist/vue.esm.browser.js'   
+        import Vue from 'https://cdn.jsdelivr.net/npm/vue@2.6.10/dist/vue.esm.browser.js'   
 
-  </script>
+           </script>
 
 #### 2.instal Vue
   $ bower install vue
