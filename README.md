@@ -20,7 +20,7 @@
   -[Untuk versi produksi](https://vuejs.org/js/vue.min.js).
      
 
-     *catatan: sebaiknya untuk gunahkan produksi karena lebih setabil*
+     **catatan: sebaiknya untuk gunahkan produksi karena lebih setabil**
 
 #### CDN
 -Versi pengembangan
