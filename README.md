@@ -19,9 +19,9 @@
   -[Untuk versi pengembangan](https://vuejs.org/js/vue.js).  
   -[Untuk versi produksi](https://vuejs.org/js/vue.min.js).
      
+	__catatan: sebaiknya untuk gunahkan produksi karena lebih setabil__
+     
 
-     __
-__
 #### CDN
 -Versi pengembangan
 
