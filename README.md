@@ -1,6 +1,6 @@
 # VueJS
 
-## Prerequisites
+### Prerequisites
 - Install Node.JS  
   [Versi pengembangan node.js pr](https://nodejs.org/dist/v12.7.0/node-v12.7.0.pkg)
   [Versi produksi node.js pr](https://nodejs.org/dist/v10.16.0/node-v10.16.0.pkg)
@@ -10,10 +10,10 @@
 
 **Karena Vue menggunahkan  ECMAScript 5 sehingga tidak mendukung browser yang tidak menggunahkan fitur ECMAScript 5 seperti IE8. Namun semua browser yang menggunahkan ECMAScript 5 bisa digunahkan.**
 
-## Vue Devtools
+### Vue Devtools
 
 
-### 1.Browser yang di dukung ECMAScript 5
+#### 1.Browser yang di dukung ECMAScript 5
 
 #### Direct  
   -[Untuk versi pengembangan](https://vuejs.org/js/vue.js).  
@@ -39,6 +39,6 @@
 
   </script>
 
-## 2.instal Vue
+#### 2.instal Vue
   $ bower install vue
 
