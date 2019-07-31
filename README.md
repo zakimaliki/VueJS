@@ -1,6 +1,6 @@
 # VueJS
 
-##vvPrerequisites
+## Prerequisites
 - Install Node.JS  
   [Versi pengembangan node.js pr](https://nodejs.org/dist/v12.7.0/node-v12.7.0.pkg)
   [Versi produksi node.js pr](https://nodejs.org/dist/v10.16.0/node-v10.16.0.pkg)
@@ -22,11 +22,22 @@
 
 #### CDN
 -Versi pengembangan
+
 <script src="https://cdn.jsdelivr.net/npm/vue"></script>
+
 -Versi produksi
+
+
 <script src="https://cdn.jsdelivr.net/npm/vue@2.6.10/dist/vue.js"></script>
+
+
 -ES Modules
-<script type="module">   import Vue from 'https://cdn.jsdelivr.net/npm/vue@2.6.10/dist/vue.esm.browser.js'   </script>
+
+  <script type="module">   
+
+    import Vue from 'https://cdn.jsdelivr.net/npm/vue@2.6.10/dist/vue.esm.browser.js'   
+
+  </script>
 
 ## 2.instal Vue
   $ bower install vue
